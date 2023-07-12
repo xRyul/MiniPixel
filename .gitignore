@@ -1,0 +1,5 @@
+node_modules
+my_env
+py3.11
+package-lock.json
+package.json

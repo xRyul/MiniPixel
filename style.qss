@@ -1,0 +1,98 @@
+QMainWindow {
+    background-color: #282a36;
+}
+
+QFrame#mainFrame {
+    border: 1px solid #6272a4;
+    border-radius: 10px;
+}
+
+QCheckBox {
+    color: #f8f8f2;
+    spacing: 5px;
+}
+
+QListWidget::item:selected {
+    background-color: #6272a4;
+}
+
+QWidget {
+    color: #f8f8f2;
+    font-family: "Segoe UI";
+    font-size: 9pt;
+}
+
+QPushButton {
+    background-color: #44475a;
+    border: none;
+    padding: 5px 10px;
+}
+
+QPushButton:hover {
+    background-color: #6272a4;
+}
+
+QPushButton:pressed {
+    background-color: #50fa7b;
+}
+
+QPushButton#closeButton {
+    color: #ff5555;
+    font-size: 14pt;
+}
+
+QPushButton#clearButton {
+    background-color: #ff5555;
+    font-size: 10px;
+}
+
+QProgressBar {
+    border: none;
+    text-align: center;
+    color: #f8f8f2;
+}
+
+QProgressBar::chunk {
+    background-color: #50fa7b;
+}
+
+
+QPlainTextEdit {
+    background-color: #44475a;
+}
+
+QListWidget {
+    background-color: #44475a;
+    border: none;
+    color: #f8f8f2;
+}
+
+QComboBox {
+    background-color: #343746;
+    font-size: 10pt;
+}
+
+QLabel {
+    color: #f8f8f2;
+}
+
+QComboBox {
+    background-color: #44475a;
+    border: none;
+    padding: 5px;
+    color: #f8f8f2;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox::down-arrow {
+    image: url(:/icons/down_arrow.png);
+}
+
+QComboBox QAbstractItemView {
+    background-color: #44475a;
+    selection-background-color: #6272a4;
+}
+
