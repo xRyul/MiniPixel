@@ -1,6 +1,10 @@
 MiniPixel
 
-Image compression for PNG, PSD, TIFF, JPG files
+Image compression for PNG, PSD, TIFF, JPG files.
+
+- Drag and drop
+- Multithreading
+- Auto compression based on SSIIM, DSSIM and PSNR quality metrics
 
 # Dependencies
 ```bash
