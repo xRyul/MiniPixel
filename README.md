@@ -1,4 +1,7 @@
-MiniPixel
+
+![Alt text](MiniPixelDemo.gif)
+
+# MiniPixel
 
 Image compression for PNG, PSD, TIFF, JPG files.
 
