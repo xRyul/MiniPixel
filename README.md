@@ -1,3 +1,4 @@
+![Alt text](MiniPixel_banner.jpg)
 
 ![Alt text](MiniPixelDemo.gif)
 
