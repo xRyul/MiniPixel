@@ -2,9 +2,9 @@
 
 ![Alt text](MiniPixelDemo.gif)
 
-# MiniPixel
+# MiniPixel (gui for mozjpeg)
 
-Image compression for PNG, PSD, TIFF, JPG files.
+Auto convert and compress PNG, PSD, TIFF, JPG files into JPG with MOZJPEG compression. 
 
 - Drag and drop
 - Multithreading
